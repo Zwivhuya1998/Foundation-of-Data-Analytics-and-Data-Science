@@ -1,1 +1,1 @@
-# Foundation-of-Data-Analytics-and-Data-Science
+BrighLearn Data Analytics Exercises
